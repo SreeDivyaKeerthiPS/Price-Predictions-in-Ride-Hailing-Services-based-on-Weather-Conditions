@@ -1,7 +1,7 @@
 # Team Name: Data Scouts
 ### Team Members:
  
-|Name     | 
+|Names     | 
 |---------|
 |[Sai Harika Paluri](https://github.com/harikapaluri)| 
 |[Nikhil Kumar Mutyala](https://github.com/NikhilKumarMutyala) |    
