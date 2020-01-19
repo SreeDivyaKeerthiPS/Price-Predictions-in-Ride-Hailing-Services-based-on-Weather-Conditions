@@ -3,9 +3,9 @@
  
 |Names     | 
 |---------|
-|[Sai Harika Paluri](https://github.com/harikapaluri)| 
+|[Sree Divya Keerthi Paravasthu Siddanthi](https://github.com/SreeDivyaKeerthiPS) |
 |[Nikhil Kumar Mutyala](https://github.com/NikhilKumarMutyala) |    
-|[Sree Divya Keerthi Paravasthu Siddanthi](https://github.com/SreeDivyaKeerthiPS) |    
+|[Sai Harika Paluri](https://github.com/harikapaluri)|  
 |[Ravi Theja Goalla](https://github.com/wgaca007) |    
  
  
