@@ -116,7 +116,7 @@ The may need to be formatted. For example, the date might be in int or float, we
 
 #### Selecting Modeling Techniques
 
-For this dataset we are using Gradient Boosted Tree, Random Forest and Convolutional Neural Network.
+For this dataset we are using Random Forest Regression modeling.
 
 
 ### Evaluation
